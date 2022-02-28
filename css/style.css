@@ -1,0 +1,111 @@
+body {
+    background-color: #DCDCDC;
+}
+
+
+/* Navbar */
+
+.navbar-brand {
+    font-size: 25px;
+}
+
+.navbar ul li a {
+    font-size: 20px;
+    margin: auto 15px;
+}
+
+
+/* Navbar-end */
+
+
+/* Jumbotron */
+
+.jumbotron {
+    padding-top: 100px;
+    background-color: #DCDCDC;
+    margin-top: 60px;
+}
+
+img {
+    width: 200px;
+}
+
+.img-thumbnail {
+    background-color: #343a40;
+}
+
+.jumbotron a {
+    width: 45px;
+    height: 45px;
+    margin: 10px 8px 0px 8px;
+    display: inline-flex;
+}
+
+
+/* Jumbotron-end */
+
+
+/* About */
+
+#about {
+    background-color: #808080;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.about {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.about h2 {
+    padding-top: 100px;
+}
+
+
+/* About-end */
+
+
+/* Projects */
+
+#projects {
+    background-color: #DCDCDC;
+}
+
+#projects h2 {
+    padding-top: 100px;
+}
+
+.card {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+
+
+/* Projects-end */
+
+
+/* Contact */
+
+.contact {
+    background-color: #808080;
+}
+
+#contact h2 {
+    padding-top: 100px;
+}
+
+
+/* Contact-end */
+
+
+/* Footer */
+
+a {
+    display: inline;
+    text-decoration: none;
+}
+
+
+/* Footer-end */
