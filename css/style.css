@@ -54,12 +54,15 @@ img {
 }
 
 .about {
-    padding-left: 0px;
-    padding-right: 0px;
+    padding: 70px 0px;
 }
 
 .about h2 {
     padding-top: 100px;
+}
+
+.bio {
+    font-size: 23px;
 }
 
 
