@@ -38,6 +38,7 @@ body {
 
 .pp {
     width: 200px;
+    height: 200px;
     margin-right: 100px;
 }
 
@@ -126,6 +127,7 @@ body {
         display: flex;
         justify-content: center;
         width: 150px;
+        height: 150px;
         margin-right: 0px;
     }
     .name,
@@ -167,6 +169,7 @@ body {
         display: flex;
         justify-content: center;
         width: 130px;
+        height: 130px;
         margin-right: 0px;
     }
     .name,
@@ -205,6 +208,7 @@ body {
         display: flex;
         justify-content: center;
         width: 100px;
+        height: 100px;
         margin-right: 0px;
     }
     .name,
