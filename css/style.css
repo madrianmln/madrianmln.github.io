@@ -282,6 +282,10 @@ body {
     margin: auto;
 }
 
+.card-img-top{
+    height: 260px;
+    object-fit: cover;
+}
 
 /* Projects-end */
 
